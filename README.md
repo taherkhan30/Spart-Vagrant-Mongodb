@@ -146,4 +146,4 @@ this will create a new environment and include your provinsing.sh file.
 #### Step 17
 
 View the app on http://development.local:3000/
-# Spart-Vagrant-Mongodb
+
