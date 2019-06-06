@@ -1,4 +1,4 @@
-# sparta-vagrant-nodejs
+# Sparta-Vagrant-MongoDB
 
 This repository holds a provisioned __dev environment__ for a __NodeJS application__. The following tools have been utilised to create the dev environment. This ReadMe will be useful to anyone hoping to create a dev environment for nodeJS development. You can either git clone the provisioned environment or recreate the whole environment using the steps below.
 
